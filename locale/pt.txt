@@ -1,0 +1,278 @@
+#: locale=pt
+
+## Action
+
+### PDF
+PopupPDFBehaviour_795D3113_6452_72BC_4190_72C4B17F7B01.url = files/Card%C3%A1pio%20Paginado%20Curva_pt.pdf
+
+### URL
+LinkBehaviour_76AFD55F_6456_F2A4_41D4_C99BBC0F7311.source = https://api.whatsapp.com/send?phone=5511982330522&text=Ol%C3%A1,%20Deixe%20seu%20recado%20assim%20que%20poss%C3%ADvel%20entrarei%20em%20contato,%20obrigado!
+LinkBehaviour_741036D5_69E8_DA2A_41CD_6C52D5CF18FB.source = https://api.whatsapp.com/send?phone=5511982330522&text=Ol%C3%A1,%20Deixe%20seu%20recado%20assim%20que%20poss%C3%ADvel%20entrarei%20em%20contato,%20obrigado!
+LinkBehaviour_640BB2B7_401D_1426_4192_5DE18E3F2C0C.source = https://api.whatsapp.com/send?phone=5511996539632&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre:
+LinkBehaviour_746076F9_69E8_DBDA_41CD_5A2E31A15AAF.source = https://api.whatsapp.com/send?phone=5511996539632&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre:
+LinkBehaviour_59904109_403F_2189_41B9_60B07D7171A7.source = https://tantrarestaurante.com.br/
+LinkBehaviour_741C46DB_69E8_DBDE_4190_FC83246DEFE5.source = https://tantrarestaurante.com.br/
+LinkBehaviour_5BB02168_4015_142B_41B7_7C7CE245432F.source = https://www.facebook.com/restaurantetantra
+LinkBehaviour_7462F6F7_69E8_DBD6_41B6_53A0C250AFE8.source = https://www.facebook.com/restaurantetantra
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+PopupWebFrameBehaviour_746086FC_69E8_DBDA_41AA_24837536B3BE.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4460.857386606859!2d-46.68511428255614!3d-23.59413159999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce574f76a513d1%3A0x66f995b93c327910!2sRestaurante%20Tantra!5e1!3m2!1spt-BR!2sbr!4v1689275668611!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_46703712_5083_E7F2_417A_DD8F5739C856.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4460.857386606859!2d-46.68511428255614!3d-23.59413159999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce574f76a513d1%3A0x66f995b93c327910!2sRestaurante%20Tantra!5e1!3m2!1spt-BR!2sbr!4v1689275668611!5m2!1spt-BR!2sbr
+LinkBehaviour_5C1F0F91_4015_6CFA_41CA_755ADD53B99B.source = https://www.ifood.com.br/delivery/sao-paulo-sp/tantra-restaurante-vila-olimpia/1eb59d63-a626-4bbe-9e00-6a1e8749bea8?UTM_Medium=share
+LinkBehaviour_7461D6F8_69E8_DBDA_41D2_9032424AD538.source = https://www.ifood.com.br/delivery/sao-paulo-sp/tantra-restaurante-vila-olimpia/1eb59d63-a626-4bbe-9e00-6a1e8749bea8?UTM_Medium=share
+LinkBehaviour_5BB22ACF_4013_1465_419E_4239C700EF5C.source = https://www.instagram.com/tantrarestaurante/
+LinkBehaviour_746336F6_69E8_DBD6_41C5_F1215AFAE7D2.source = https://www.instagram.com/tantrarestaurante/
+PopupWebFrameBehaviour_469188C1_645E_339C_417D_E7C6CF3DF39A.url = //www.youtube.com/embed/qA0E3UJFwgQ?v=qA0E3UJFwgQ&t=2s
+
+## Media
+
+### Audio
+audiores_4F5E3854_408A_F6CE_41CC_A4EDFC98D947.mp3Url = media/audio_51ED6FDB_408A_89FA_41A8_3C6D4C8D6B1C_pt.mp3
+
+### Image
+imlevel_4316C1A5_545A_9940_41C7_842DAEA5DE4D.url = media/popup_410A0E32_5456_EB40_41BA_B8F919D749CB_pt_0_0.jpg
+imlevel_4314F1A6_545A_9940_41D0_72784FBD5C14.url = media/popup_410A0E32_5456_EB40_41BA_B8F919D749CB_pt_0_1.jpg
+imlevel_4314C1A6_545A_9940_4195_5B6DFF9EB0A6.url = media/popup_410A0E32_5456_EB40_41BA_B8F919D749CB_pt_0_2.jpg
+imlevel_4314A1A6_545A_9940_41A7_3063EB85D79D.url = media/popup_410A0E32_5456_EB40_41BA_B8F919D749CB_pt_0_3.jpg
+imlevel_43298E6B_545A_ABC0_41D2_86CFB7C3F9DF.url = media/popup_410B855B_546D_99C0_41D2_CD483921CEDA_pt_0_0.jpg
+imlevel_43288E6B_545A_ABC0_41CD_682CF8376564.url = media/popup_410B855B_546D_99C0_41D2_CD483921CEDA_pt_0_1.jpg
+imlevel_4328AE6B_545A_ABC0_41B9_14422664FB8D.url = media/popup_410B855B_546D_99C0_41D2_CD483921CEDA_pt_0_2.jpg
+imlevel_4328BE6C_545A_ABC0_41D3_065113251193.url = media/popup_410B855B_546D_99C0_41D2_CD483921CEDA_pt_0_3.jpg
+imlevel_4333AB0A_545A_A940_41C6_23F0E596233A.url = media/popup_410C5361_546A_99C0_41D4_E0CE8017F60A_pt_0_0.jpg
+imlevel_4333BB0B_545A_A940_41D1_E69B353A84E6.url = media/popup_410C5361_546A_99C0_41D4_E0CE8017F60A_pt_0_1.jpg
+imlevel_43345B0B_545A_A940_419F_A6768E27D01A.url = media/popup_410C5361_546A_99C0_41D4_E0CE8017F60A_pt_0_2.jpg
+imlevel_43346B0B_545A_A940_41B0_916242F08420.url = media/popup_410C5361_546A_99C0_41D4_E0CE8017F60A_pt_0_3.jpg
+imlevel_40C085A5_5475_9940_41B4_7C14309413CF.url = media/popup_411AF3BE_5476_9940_41B3_28DB988475E4_pt_0_0.jpg
+imlevel_40C185A6_5475_9940_41BD_0AE3DC6865EB.url = media/popup_411AF3BE_5476_9940_41B3_28DB988475E4_pt_0_1.jpg
+imlevel_40C195A6_5475_9940_41C6_A50038826484.url = media/popup_411AF3BE_5476_9940_41B3_28DB988475E4_pt_0_2.jpg
+imlevel_40C1A5A6_5475_9941_41BC_767144005B91.url = media/popup_411AF3BE_5476_9940_41B3_28DB988475E4_pt_0_3.jpg
+imlevel_43107C84_545A_AF40_41CF_28FE5013901C.url = media/popup_419B834C_546A_99C0_41D4_6367E6E2C2F4_pt_0_0.jpg
+imlevel_43106C84_545A_AF40_4171_16B113A1527E.url = media/popup_419B834C_546A_99C0_41D4_6367E6E2C2F4_pt_0_1.jpg
+imlevel_43101C84_545A_AF40_41A6_0666126B934C.url = media/popup_419B834C_546A_99C0_41D4_6367E6E2C2F4_pt_0_2.jpg
+imlevel_43103C85_545A_AF40_41CC_161357630453.url = media/popup_419B834C_546A_99C0_41D4_6367E6E2C2F4_pt_0_3.jpg
+imlevel_4323D4FA_545A_B8C1_41C7_15740EB5EE9B.url = media/popup_41CCA8EB_546F_68C0_41D1_F5F937568C79_pt_0_0.jpg
+imlevel_4323C4FB_545A_B8C0_41BF_D3A1D128C474.url = media/popup_41CCA8EB_546F_68C0_41D1_F5F937568C79_pt_0_1.jpg
+imlevel_4323E4FB_545A_B8C0_41CA_A8E28E2263C6.url = media/popup_41CCA8EB_546F_68C0_41D1_F5F937568C79_pt_0_2.jpg
+imlevel_432394FB_545A_B8C0_41C3_4CCAFCC29A4A.url = media/popup_41CCA8EB_546F_68C0_41D1_F5F937568C79_pt_0_3.jpg
+imlevel_430288A9_545A_9740_41D3_6711CC964834.url = media/popup_41FF3F65_5455_69C0_4199_6EBEF0AD880D_pt_0_0.jpg
+imlevel_4300B8AA_545A_9740_41D1_533E3810C766.url = media/popup_41FF3F65_5455_69C0_4199_6EBEF0AD880D_pt_0_1.jpg
+imlevel_430088AA_545A_9740_41C3_82863205E524.url = media/popup_41FF3F65_5455_69C0_4199_6EBEF0AD880D_pt_0_2.jpg
+imlevel_430178AA_545A_9740_41D1_0E4559550EFB.url = media/popup_41FF3F65_5455_69C0_4199_6EBEF0AD880D_pt_0_3.jpg
+imlevel_4319086C_545A_B7C7_41C5_2F67DEDC60C4.url = media/popup_422D5DC3_546D_A8C0_41D5_0712593F5555_pt_0_0.jpg
+imlevel_4327186D_545A_B7C1_41CF_68E0F861794E.url = media/popup_422D5DC3_546D_A8C0_41D5_0712593F5555_pt_0_1.jpg
+imlevel_4327386D_545A_B7C1_41CE_907D11FEBB24.url = media/popup_422D5DC3_546D_A8C0_41D5_0712593F5555_pt_0_2.jpg
+imlevel_4327C86D_545A_B7C1_41C1_4F57FF40A53B.url = media/popup_422D5DC3_546D_A8C0_41D5_0712593F5555_pt_0_3.jpg
+imlevel_4D768AE4_54B6_A8C0_41BD_C851DBE8772E.url = media/popup_42F7180E_54AA_9740_41C6_6C65429E3C68_pt_0_0.jpg
+imlevel_4D778AE4_54B6_A8C0_41D3_4A8F5D674846.url = media/popup_42F7180E_54AA_9740_41C6_6C65429E3C68_pt_0_1.jpg
+imlevel_4D77AAE4_54B6_A8C0_41A9_2619087BABAD.url = media/popup_42F7180E_54AA_9740_41C6_6C65429E3C68_pt_0_2.jpg
+imlevel_4D77BAE5_54B6_A8C0_41CE_5B2F93168B5C.url = media/popup_42F7180E_54AA_9740_41C6_6C65429E3C68_pt_0_3.jpg
+imlevel_4D76EB26_54B6_A940_41D4_301A0B5ACF4C.url = media/popup_4309B73B_54AB_9940_41A7_C6CD17228E25_pt_0_0.jpg
+imlevel_4D76FB26_54B6_A940_41C9_4982501DD36C.url = media/popup_4309B73B_54AB_9940_41A7_C6CD17228E25_pt_0_1.jpg
+imlevel_4D750B27_54B6_A940_41D1_0DD811733409.url = media/popup_4309B73B_54AB_9940_41A7_C6CD17228E25_pt_0_2.jpg
+imlevel_4D751B27_54B6_A940_41C0_412C664F39BF.url = media/popup_4309B73B_54AB_9940_41A7_C6CD17228E25_pt_0_3.jpg
+imlevel_4D769B06_54B6_A940_41D4_AD61AA58F0E6.url = media/popup_4327D876_54AB_B7C0_41BA_23359900F7DB_pt_0_0.jpg
+imlevel_4D76BB07_54B6_A940_41C9_B247B9D253AE.url = media/popup_4327D876_54AB_B7C0_41BA_23359900F7DB_pt_0_1.jpg
+imlevel_4D76CB07_54B6_A940_41C4_7730D884F0A7.url = media/popup_4327D876_54AB_B7C0_41BA_23359900F7DB_pt_0_2.jpg
+imlevel_4D76DB07_54B6_A940_41B8_05299DE608ED.url = media/popup_4327D876_54AB_B7C0_41BA_23359900F7DB_pt_0_3.jpg
+imlevel_4D62B04D_54B6_97C1_41A2_048D9C0EB788.url = media/popup_43F0C7C2_54AA_B8C0_41C0_FAA8F974A066_pt_0_0.jpg
+imlevel_4D62C04E_54B6_97C3_41CA_D55C2F97146E.url = media/popup_43F0C7C2_54AA_B8C0_41C0_FAA8F974A066_pt_0_1.jpg
+imlevel_4D62D04E_54B6_97C3_41C9_ACFE35A9F543.url = media/popup_43F0C7C2_54AA_B8C0_41C0_FAA8F974A066_pt_0_2.jpg
+imlevel_4D62E04E_54B6_97C3_41D0_E5430D5B4E78.url = media/popup_43F0C7C2_54AA_B8C0_41C0_FAA8F974A066_pt_0_3.jpg
+imlevel_43EAF294_642E_37A4_41A8_3B631346E456.url = media/popup_4C4FB372_642E_F57C_41D6_CAF4D2A404FA_pt_0_0.jpg
+imlevel_43EAE294_642E_37A4_41D0_9C96B940D7E2.url = media/popup_4C4FB372_642E_F57C_41D6_CAF4D2A404FA_pt_0_1.jpg
+imlevel_43EA9294_642E_37A4_41A0_497F07012409.url = media/popup_4C4FB372_642E_F57C_41D6_CAF4D2A404FA_pt_0_2.jpg
+imlevel_43EA8295_642E_37A4_41CB_362BD94A0543.url = media/popup_4C4FB372_642E_F57C_41D6_CAF4D2A404FA_pt_0_3.jpg
+imlevel_49905931_5455_E941_41C6_B89E68145872.url = media/popup_4E8F3A6D_54D5_EBC1_41B8_231AC010BC52_pt_0_0.jpg
+imlevel_499FA931_5455_E941_41B8_35456E7B4C77.url = media/popup_4E8F3A6D_54D5_EBC1_41B8_231AC010BC52_pt_0_1.jpg
+imlevel_499FB932_5455_E943_4183_2340721354B8.url = media/popup_4E8F3A6D_54D5_EBC1_41B8_231AC010BC52_pt_0_2.jpg
+imlevel_499347C7_5455_98C0_41D1_32501D9EBF10.url = media/popup_4F15679A_54DB_9940_41C2_8275FAB8B33D_pt_0_0.jpg
+imlevel_4995773A_5455_9943_41CD_CA0F2F8433E2.url = media/popup_4F229195_54DD_B940_41C7_735418B4D835_pt_0_0.jpg
+imlevel_4995473B_5455_9941_41D1_BEB8C74AD045.url = media/popup_4F229195_54DD_B940_41C7_735418B4D835_pt_0_1.jpg
+imlevel_4995573B_5455_9941_41BF_BEF8AA57531B.url = media/popup_4F229195_54DD_B940_41C7_735418B4D835_pt_0_2.jpg
+imlevel_4E7EC02F_50DF_013C_41D3_523710243601.url = media/popup_4F6995E3_50C5_0324_41C4_0EA8E29C0EC2_pt_0_0.jpg
+imlevel_4E79302F_50DF_013C_41BF_7F5D073F6F58.url = media/popup_4F6995E3_50C5_0324_41C4_0EA8E29C0EC2_pt_0_1.jpg
+imlevel_4E79102F_50DF_013C_4167_DE72E8148F4E.url = media/popup_4F6995E3_50C5_0324_41C4_0EA8E29C0EC2_pt_0_2.jpg
+imlevel_49E80607_5455_9B41_41CC_214FFDD7BA9F.url = media/popup_4F739E6E_54DF_6BC0_41D0_9626102E90B4_pt_0_0.jpg
+imlevel_49E81607_5455_9B41_41D1_51724E26C7A2.url = media/popup_4F739E6E_54DF_6BC0_41D0_9626102E90B4_pt_0_1.jpg
+imlevel_49EBF4DF_5455_98C1_41D3_4D34F76F1F18.url = media/popup_4F8093F5_54DD_98C1_41D0_34BEFA5C674E_pt_0_0.jpg
+imlevel_49EBC4DF_5455_98C1_41B9_EB199E7FE22C.url = media/popup_4F8093F5_54DD_98C1_41D0_34BEFA5C674E_pt_0_1.jpg
+imlevel_4E742298_50DF_01E4_41CC_E53F4785043B.url = media/popup_4F9F0BC7_50DF_076C_41B4_8DE8AF76DCFF_pt_0_0.jpg
+imlevel_4E741299_50DF_01E4_4185_FE8CDCC94013.url = media/popup_4F9F0BC7_50DF_076C_41B4_8DE8AF76DCFF_pt_0_1.jpg
+imlevel_4E740299_50DF_01E4_4172_23448B02AF44.url = media/popup_4F9F0BC7_50DF_076C_41B4_8DE8AF76DCFF_pt_0_2.jpg
+imlevel_4E7BA168_50DF_0324_41B6_D35008E8946E.url = media/popup_4FA0C535_50DD_032C_41C5_CD573174D31C_pt_0_0.jpg
+imlevel_4E78A169_50DF_0324_41CB_5222261E5564.url = media/popup_4FA0C535_50DD_032C_41C5_CD573174D31C_pt_0_1.jpg
+imlevel_4E789169_50DF_0324_41B6_99A49E32343A.url = media/popup_4FA0C535_50DD_032C_41C5_CD573174D31C_pt_0_2.jpg
+imlevel_6D1B1D8A_5475_A940_4172_AFEFD1AD4222.url = media/popup_6DD98840_5477_77C0_41CA_6520370310C8_pt_0_0.jpg
+imlevel_6D1B3D8B_5475_A940_41D2_8D942DFF95C9.url = media/popup_6DD98840_5477_77C0_41CA_6520370310C8_pt_0_1.jpg
+imlevel_6D1B4D8B_5475_A940_41B8_8E432AA3A9E6.url = media/popup_6DD98840_5477_77C0_41CA_6520370310C8_pt_0_2.jpg
+imlevel_6D1B5D8C_5475_A940_41B9_01A87FBAACA8.url = media/popup_6DD98840_5477_77C0_41CA_6520370310C8_pt_0_3.jpg
+imlevel_726E98FA_50C5_0124_41A3_65F38DF475EC.url = media/popup_7188B153_50C5_0364_41C0_DD0391EE9704_pt_0_0.jpg
+imlevel_726998FB_50C5_0124_41D1_0428A88E1E1F.url = media/popup_7188B153_50C5_0364_41C0_DD0391EE9704_pt_0_1.jpg
+imlevel_7269A8FB_50C5_0124_41D1_CF3F874CF2C6.url = media/popup_7188B153_50C5_0364_41C0_DD0391EE9704_pt_0_2.jpg
+imlevel_726A36E6_50C5_012C_41C8_20406029BAD0.url = media/popup_71E86528_50DB_0324_41CB_23F3DCE628B2_pt_0_0.jpg
+imlevel_726BC6E6_50C5_012C_41C7_0653DCEC6EDB.url = media/popup_71E86528_50DB_0324_41CB_23F3DCE628B2_pt_0_1.jpg
+imlevel_726BD6E7_50C5_012C_41D1_8107CD09E4CD.url = media/popup_71E86528_50DB_0324_41CB_23F3DCE628B2_pt_0_2.jpg
+imlevel_726CF9CD_50C5_037C_41C2_6FEC1A0D1AD8.url = media/popup_71E9E55C_50DD_031C_41D4_082080776696_pt_0_0.jpg
+imlevel_726FF9CD_50C5_037C_41BE_638EB31A8183.url = media/popup_71E9E55C_50DD_031C_41D4_082080776696_pt_0_1.jpg
+imlevel_7261B3D4_50C5_076C_41B4_2928B2F290BC.url = media/popup_71F27477_50C7_012C_41C2_46AA5E31747F_pt_0_0.jpg
+imlevel_726143D4_50C5_076C_41BE_DC38F35A69F0.url = media/popup_71F27477_50C7_012C_41C2_46AA5E31747F_pt_0_1.jpg
+imlevel_726153D4_50C5_076C_41B9_6730751EB61C.url = media/popup_71F27477_50C7_012C_41C2_46AA5E31747F_pt_0_2.jpg
+imlevel_72648571_50C5_0324_419D_C8B5C48EB1DE.url = media/popup_724A8025_50C5_012C_41C8_484741AB74D6_pt_0_0.jpg
+imlevel_72678572_50C5_0324_41CB_343BC3826EE3.url = media/popup_724A8025_50C5_012C_41C8_484741AB74D6_pt_0_1.jpg
+imlevel_72679572_50C5_0324_41CE_F3971F33A1E8.url = media/popup_724A8025_50C5_012C_41C8_484741AB74D6_pt_0_2.jpg
+imlevel_7941F6D6_6452_1FA4_41C9_67A46FEDB586.url = media/popup_7ABCCC84_6456_13A4_41C5_9211A4ADD3E8_pt_0_0.jpg
+imlevel_7943E6D7_6452_1FA4_41C9_9759D466E885.url = media/popup_7ABCCC84_6456_13A4_41C5_9211A4ADD3E8_pt_0_1.jpg
+imlevel_794386D7_6452_1FA4_41A6_65F80999B035.url = media/popup_7ABCCC84_6456_13A4_41C5_9211A4ADD3E8_pt_0_2.jpg
+imlevel_7943A6D7_6452_1FA4_41C0_8D0DBC8FF1CB.url = media/popup_7ABCCC84_6456_13A4_41C5_9211A4ADD3E8_pt_0_3.jpg
+
+### Popup Image
+
+### Title
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_0.label = 00
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_0.label = 01
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_1.label = 01
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_0.label = 01
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_1.label = 02
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_2.label = 02
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_1.label = 02
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_2.label = 03
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_3.label = 03
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_2.label = 03
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_4.label = 04
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_3.label = 04
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_3.label = 04
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_4.label = 05
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_4.label = 05
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_5.label = 05
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_6.label = 06
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_5.label = 06
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_5.label = 06
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_6.label = 07
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_7.label = 07
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_6.label = 07
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_8.label = 08
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_7.label = 08
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_7.label = 08
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_9.label = 09
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_8.label = 09
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_8.label = 09
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_9.label = 10
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_10.label = 10
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_9.label = 10
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_10.label = 11
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_10.label = 11
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_11.label = 11
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3_11.label = 12
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_11.label = 12
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_12.label = 12
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_12.label = 13
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_13.label = 13
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_14.label = 14
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_13.label = 14
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_15.label = 15
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_14.label = 15
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_16.label = 16
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_15.label = 16
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_16.label = 17
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_17.label = 17
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848_17.label = 18
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_18.label = 18
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_19.label = 19
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_20.label = 20
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_21.label = 21
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_22.label = 22
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_23.label = 23
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_24.label = 24
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_25.label = 25
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_26.label = 26
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_27.label = 27
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_28.label = 28
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_29.label = 29
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_30.label = 30
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_31.label = 31
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_32.label = 32
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_33.label = 33
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_34.label = 34
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_35.label = 35
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_36.label = 36
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_37.label = 37
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4_38.label = 38
+panorama_20A22D9B_2B60_5DCE_41C2_9C8DE6294F28.label = Arvore Criativa
+panorama_20A2E8E7_2B60_2346_41A5_91AED7E9ECC5.label = Bancada Bebidas
+panorama_20A25210_2B60_26DA_41C1_A6C65C3125D6.label = Cantinho Casal
+panorama_20A3C892_2B60_23D9_41A0_57E6D257E7F6.label = Casacata
+panorama_20AA5781_2B60_EDBB_41BA_5364BFFBB81F.label = Entrada
+panorama_20A2F3F1_2B60_E55B_41B5_840FD65E10BB.label = Entrada Cantinho Casal
+panorama_7FB64BF9_64F2_156C_41D0_2AAFFAE0EEDD.label = Entrada Frente
+panorama_20A21C93_2B60_63DE_41B2_A6353C25C390.label = Entrada Salão ll
+panorama_20A20A30_2B60_66DA_41B7_FC8539137C6C.label = Entrada do Bar
+panorama_20A3B7BD_2B60_2DCA_41BD_6B08FEE3F7F8.label = Escada Toaletes
+panorama_20A3F674_2B61_EF5A_41BA_149FDF98BE21.label = Hall Escada Toaletes
+panorama_20A6D4C5_2B60_63BB_41A3_F4EE9B1A8E82.label = Hall de Entrada
+panorama_20A6638A_2B60_65CE_41C1_69DE9EA4435E.label = Hall de Entrada ll
+panorama_20A6A7E8_2B60_ED49_41C4_C2A0C92FD265.label = Jardim
+panorama_20A6F7AA_2B60_2DC9_4180_4A3D7A2F18D9.label = Jardim Secreto
+panorama_20A394A6_2B61_E3F9_41C4_3EA986E2A850.label = Lavabo
+panorama_20A620FC_2B67_E349_4190_D0FFA1A97A79.label = Mesa  Temperos
+panorama_20A22F6A_2B60_3D49_41C1_DD623DA711CD.label = Mesa Abacaxi
+panorama_20A200A3_2B60_23FE_41BE_A017F375763B.label = Mesa Frios
+panorama_20A3AAA3_2B60_67FE_41C5_4F4E9744F0B9.label = Salão ll
+panorama_20A6217F_2B60_2547_41BC_921C54319985.label = Sistema Mongolian Grill
+panorama_20A26E1F_2B60_5EC6_4198_D019DA96B3F7.label = Subida Escada
+panorama_20A260A3_2B60_23FE_41AE_1897342C1F97.label = Toalete Feminino
+panorama_20A242D4_2B60_2759_41B6_0255486CD45A.label = Toalete Masculino
+album_7DF76F82_69A9_CA29_41D0_2B33D4DC27A4.label = Álbum de Fotos 00
+album_72D4B13C_6907_5CB6_41D3_DFB4F7122848.label = Álbum de Fotos 01
+album_735E1D17_69D9_4E56_41D5_22906D9AD1B3.label = Álbum de Fotos 01
+
+## Skin
+
+### Button
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Lista de Panoramas
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Lista de Panoramas
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Nossas Sobremesas
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Nossas Sobremesas
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Nossas Sobremesas
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Nossas Sobremesas
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Nossos Drinks
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Nossos Drinks
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Nossos Pratos
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Nossos Pratos
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Sobre o Chef
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Sobre o Chef
+Button_55189AF0_408B_8BC6_41C7_19B5E5237F31.label = Sobre o Restaurante
+Button_55189AF0_408B_8BC6_41C7_19B5E5237F31_mobile.label = Sobre o Restaurante
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Tour Information
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Tour Information
+
+### Image
+Image_308FE89F_3FFC_6584_41CC_623EBEEC8483_mobile.url = skin/Image_308FE89F_3FFC_6584_41CC_623EBEEC8483_mobile_pt.jpg
+Image_308FE89F_3FFC_6584_41CC_623EBEEC8483.url = skin/Image_308FE89F_3FFC_6584_41CC_623EBEEC8483_pt.jpg
+Image_492C26C1_65F6_3F9C_41AE_246DE0F967E8_mobile.url = skin/Image_492C26C1_65F6_3F9C_41AE_246DE0F967E8_mobile_pt.jpg
+Image_492C26C1_65F6_3F9C_41AE_246DE0F967E8.url = skin/Image_492C26C1_65F6_3F9C_41AE_246DE0F967E8_pt.jpg
+Image_54B932E9_454C_7B07_41B5_A68067FF6A18_mobile.url = skin/Image_54B932E9_454C_7B07_41B5_A68067FF6A18_mobile_pt.jpg
+Image_54B932E9_454C_7B07_41B5_A68067FF6A18.url = skin/Image_54B932E9_454C_7B07_41B5_A68067FF6A18_pt.jpg
+Image_551F1AEF_408B_8BDA_41C9_BF536330F343_mobile.url = skin/Image_551F1AEF_408B_8BDA_41C9_BF536330F343_mobile_pt.jpg
+Image_551F1AEF_408B_8BDA_41C9_BF536330F343.url = skin/Image_551F1AEF_408B_8BDA_41C9_BF536330F343_pt.jpg
+Image_6B7F912F_6432_12E3_41D5_9ABF65040B64_mobile.url = skin/Image_6B7F912F_6432_12E3_41D5_9ABF65040B64_mobile_pt.png
+Image_6B7F912F_6432_12E3_41D5_9ABF65040B64.url = skin/Image_6B7F912F_6432_12E3_41D5_9ABF65040B64_pt.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_pt.jpg
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_pt.jpg
+
+### Multiline Text
+HTMLText_48F9612C_65F3_F2E4_41BF_14C03DDF49B5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.829999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.739999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;word-break:break-word;font-family:'Bebas Neue Bold';">Tantra Mongolian Grill</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4799999999999947vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.48vh;word-break:break-word;font-family:'Bebas Neue Bold';">O melhor da culinária asiática</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0765027322404346vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">Desde 1998 oferecemos o melhor da comida asiática no estilo “Healthy Asian Fusion Food". O buffet Mongolian Grill oferece um rodízio inovador, com opções que vão desde frutos do mar, carnes, aves e peixes, além de legumes, molhos e especiarias e condimentos. Aqui você veste o chapéu de chef, e prepara o seu prato segundo o seu gosto e instinto, criando assim sua refeição de forma original e inesquecível.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0765027322404346vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">As sobremesas e bebidas exclusivas, além de serem afrodisíacas, atendem ao paladar mais exigente em um ambiente rústico e sofisticado para toda família ou amigos. Junto com a proposta da casa, oferecemos como cortesia shows como encantadores de serpentes, shows aéreos, quiromancia e Shiatsu express.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_48F9612C_65F3_F2E4_41BF_14C03DDF49B5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.829999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.739999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;word-break:break-word;font-family:'Bebas Neue Bold';">Tantra Mongolian Grill</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4799999999999947vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.48vh;word-break:break-word;font-family:'Bebas Neue Bold';">O melhor da culinária asiática</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0765027322404346vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">Desde 1998 oferecemos o melhor da comida asiática no estilo “Healthy Asian Fusion Food". O buffet Mongolian Grill oferece um rodízio inovador, com opções que vão desde frutos do mar, carnes, aves e peixes, além de legumes, molhos e especiarias e condimentos. Aqui você veste o chapéu de chef, e prepara o seu prato segundo o seu gosto e instinto, criando assim sua refeição de forma original e inesquecível.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0765027322404346vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vh;word-break:break-word;">As sobremesas e bebidas exclusivas, além de serem afrodisíacas, atendem ao paladar mais exigente em um ambiente rústico e sofisticado para toda família ou amigos. Junto com a proposta da casa, oferecemos como cortesia shows como encantadores de serpentes, shows aéreos, quiromancia e Shiatsu express.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_5518BAF0_408B_8BC6_41C0_5C14FE8F84B7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00a6e3;font-size:3.7vh;word-break:break-word;font-family:'Antonio';"><B>Eric Thomas</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9672131147540983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vh;word-break:break-word;font-family:'Open Sans Semibold';"><B>Os menus elaborados pelo chef Eric Thomas enaltecem a fusão do melhor da culinária asiática saudável, exótica e afrodisíaca.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.97vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9672131147540983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vh;word-break:break-word;font-family:'Open Sans Semibold';"><B>Buffet Mongolian Grill, pratos, sobremesas e bebidas autorais, atendem ao paladar mais exigente em um ambiente rústico, sofisticado, arejado com cachoeira e jardim balinês.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.97vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00a6e3;font-size:3.7vh;word-break:break-word;font-family:'Antonio';"><B>Contato:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999982vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';">E-mail:</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';"> atendimento@tantrarestaurante.com.br </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999982vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';">Web: </SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';">www.tantrarestaurante.com.br</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999982vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';">Tel :</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';"> (11) 3846-7112  (11) 99653-9632</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_5518BAF0_408B_8BC6_41C0_5C14FE8F84B7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00a6e3;font-size:3.7vh;word-break:break-word;font-family:'Antonio';"><B>Eric Thomas</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9672131147540983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vh;word-break:break-word;font-family:'Open Sans Semibold';"><B>Os menus elaborados pelo chef Eric Thomas enaltecem a fusão do melhor da culinária asiática saudável, exótica e afrodisíaca.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.97vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9672131147540983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vh;word-break:break-word;font-family:'Open Sans Semibold';"><B>Buffet Mongolian Grill, pratos, sobremesas e bebidas autorais, atendem ao paladar mais exigente em um ambiente rústico, sofisticado, arejado com cachoeira e jardim balinês.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.97vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00a6e3;font-size:3.7vh;word-break:break-word;font-family:'Antonio';"><B>Contato:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999982vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';">E-mail:</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';"> atendimento@tantrarestaurante.com.br </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999982vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';">Web: </SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';">www.tantrarestaurante.com.br</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999982vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';">Tel :</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;word-break:break-word;font-family:'Open Sans Semibold';"> (11) 3846-7112  (11) 99653-9632</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_5518DAF0_408B_8BC6_41C8_CBF06CB62936.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.199999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00a6e3;font-size:6.2vh;word-break:break-word;font-family:'Otama.ep';"><B>Sobre o Chef</B></SPAN></SPAN></DIV></div>
+HTMLText_5518DAF0_408B_8BC6_41C8_CBF06CB62936_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.199999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00a6e3;font-size:6.2vh;word-break:break-word;font-family:'Otama.ep';"><B>Sobre o Chef</B></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;word-break:break-word;font-family:'Oswald Regular';"><I>TANTRA</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;word-break:break-word;font-family:'Oswald Regular';"><I>www.tantrarestaurante.com.br</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;word-break:break-word;font-family:'Oswald Regular';"><I>atendimento@tantrarestaurante.com.br</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;word-break:break-word;font-family:'Oswald Regular';"><I>Tel.: (11) 3846-7112 (11) 9 9653-9632</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.5px;word-break:break-word;font-family:'Oswald Regular';"><I>TANTRA</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.5px;word-break:break-word;font-family:'Oswald Regular';"><I>www.tantrarestaurante.com.br</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.5px;word-break:break-word;font-family:'Oswald Regular';"><I>atendimento@tantrarestaurante.com.br</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.5px;word-break:break-word;font-family:'Oswald Regular';"><I>Tel.: (11) 3846-7112 (11) 9 9653-9632</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = Conheça nosso espaço em um tour 360º
+
+### Title
+tour.name = Tantra Mongolian Grill
